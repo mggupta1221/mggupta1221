@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/mggupta1221/Assets/blob/master/Icons/TitleImage.jpg?raw=true" height="175px"/></a>
 
-<h1 valign="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mukesh</h1>
+<h1 valign="center">Hi <img hei src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Mukesh</h1>
 <h3 valign="center">A passionate Full Stack Developer from India.</h3>
 <br>
 
@@ -16,13 +16,7 @@
     🌱 I’m currently learning Data Structures and Algorithms. and also interested in Web 3.0.<br><br>
 
   - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-
-
-
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.github.com/mggupta1221)**
-
-
 - 📫 How to reach me **mggupta1221@gmail.com**
 <td >
  <a href="https://app.daily.dev/MukeshGupta"><img src="https://api.daily.dev/devcards/c9185b873e1b42218097afd0acd1a408.png?r=9li" width="400" alt="Mukesh Gupta's Dev Card"/></a>
