@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-<table>
+<table border="none">
 <tr>
   <td valign="center">
     👩‍💻 I am a 22 years old Web-Developer from India 🏡.<br><br>
