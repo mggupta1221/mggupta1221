@@ -9,8 +9,8 @@
 ## 🙋‍♂️ About Me
 
 <table border="none">
-<tr>
-  <td valign="center">
+<tr border="none">
+  <td valign="center" border="none">
     👩‍💻 I am a 22 years old Web-Developer from India 🏡.<br><br>
     🎓 I am currently pursuing my Btech.<br><br>
     🌱 I’m currently learning Data Structures and Algorithms. and also interested in Web 3.0.<br><br>
@@ -18,7 +18,7 @@
   - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.github.com/mggupta1221)**
 - 📫 How to reach me **mggupta1221@gmail.com**
-<td >
+<td border="none">
  <a href="https://app.daily.dev/MukeshGupta"><img src="https://api.daily.dev/devcards/c9185b873e1b42218097afd0acd1a408.png?r=9li" width="400" alt="Mukesh Gupta's Dev Card"/></a>
   </td>
 </tr>
