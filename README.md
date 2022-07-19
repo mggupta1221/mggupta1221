@@ -72,14 +72,14 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Mukesh Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mggupta1221&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/mggupta1221/github-readme-activity-graph"><img alt="Mukesh Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mggupta1221&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
 <p valign="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/mggupta1221/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mukesh Ggupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mggupta1221&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
