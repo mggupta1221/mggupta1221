@@ -91,14 +91,14 @@
 <a href = "https://www.linkedin.com/in/mggupta1221" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/mggupta1221" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/mukeshgupta02" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" target="_blank"/></a>
 
 <hr>
 
 </p>
 
 <!-- ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/mggupta1221/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mggupta1221">
 </a>
 <a href="https://github.com/mggupta1221?tab=followers"><img src="https://img.shields.io/github/followers/mggupta1221?label=Followers&style=social" alt="GitHub Badge"></a> -->
